@@ -1,0 +1,32 @@
+
+[2025-07-09 11:42:04.356031] Order placed:
+  symbol: BTCUSDT
+  orderId: 4171233
+  status: FILLED
+  type: LIMIT
+  side: BUY
+  price: 65000.0
+  executedQty: 0.01
+  timestamp: 2025-07-09 11:42:04
+
+[2025-07-09 11:50:41.428592] Order placed:
+  symbol: BTCUSDT
+  orderId: 4669984
+  status: FILLED
+  type: MARKET
+  side: SELL
+  price: market
+  stopPrice: None
+  executedQty: 0.125
+  timestamp: 2025-07-09 11:50:41
+
+[2025-07-09 11:53:36.408278] Order placed:
+  symbol: BTCUSDT
+  orderId: 1908389
+  status: FILLED
+  type: STOP_LIMIT
+  side: BUY
+  price: 63500.0
+  stopPrice: 64000.0
+  executedQty: 0.05
+  timestamp: 2025-07-09 11:53:36
